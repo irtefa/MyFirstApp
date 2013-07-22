@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374463005000 345 906c00e8fbc6176d99fd51d07a6a1769319e52e1 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/values-v14/values.xml
+1374463005000 262 f17c92c8055b491e3ee55fb5394efc80cd398ab7 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/values-sw720dp-land/values.xml
+1374463005000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1374463005000 331 5d7d8a7eb4b7d931d6d44d9a0821db5d6612c946 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/values-v11/values.xml
+1374463005000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1374463005000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1374463005000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1374466279000 370 2c1db673ceee837fff1b5cd362d24570819ef62a /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/menu/display_message.xml
+1374466279000 861 24e7ef05b4614fd97a466d3a5f1d181293b6aa23 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/layout/activity_main.xml
+1374466279000 796 029d03143f36b042d1e0aa56f7113994278fe741 /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/layout/activity_display_message.xml
+1374466279000 1333 f3287a93c3a8a74b65b6b7051e2eb29396726bac /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/values/values.xml
+1374463005000 359 6df17008ba7568102c8cc762aebdae29570b93df /Users/mohdirtefa/AndroidStudioProjects/MyFirstAppProject/MyFirstApp/build/res/all/debug/menu/main.xml
